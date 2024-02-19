@@ -1,0 +1,77 @@
+[[keyboard.bindings]]
+action = "Paste"
+key = "Paste"
+
+[[keyboard.bindings]]
+action = "Copy"
+key = "Copy"
+
+[[keyboard.bindings]]
+action = "ClearLogNotice"
+key = "L"
+mods = "Control"
+
+[[keyboard.bindings]]
+chars = "\f"
+key = "L"
+mode = "~Vi|~Search"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "ScrollPageUp"
+key = "PageUp"
+mode = "~Alt"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ScrollPageDown"
+key = "PageDown"
+mode = "~Alt"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ScrollToTop"
+key = "Home"
+mode = "~Alt"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ScrollToBottom"
+key = "End"
+mode = "~Alt"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "Up"
+key = "I"
+mode = "Vi|~Search"
+
+[[keyboard.bindings]]
+action = "Down"
+key = "E"
+mode = "Vi|~Search"
+
+[[keyboard.bindings]]
+action = "Left"
+key = "N"
+mode = "Vi|~Search"
+
+[[keyboard.bindings]]
+action = "Right"
+key = "O"
+mode = "Vi|~Search"
+
+[[keyboard.bindings]]
+action = "SearchNext"
+key = "J"
+mode = "Vi|~Search"
+
+[[keyboard.bindings]]
+action = "SearchPrevious"
+key = "J"
+mode = "Vi|~Search"
+mods = "Shift"
+
+[window]
+decorations = "none"
+opacity = 1.0
